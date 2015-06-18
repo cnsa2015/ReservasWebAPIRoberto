@@ -6,7 +6,7 @@ CREATE DATABASE IF NOT EXISTS reservaAoeC43teT;
 USE reservaAoeC43teT;
 
 #
-# Table structure for table 'HOTEL'
+# Table structure for table 'HOTEL'afdasdfasdfasdf
 #
 
 DROP TABLE IF EXISTS HOTEL;
