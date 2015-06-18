@@ -105,7 +105,7 @@
                 <!-- common configuration shared by all executions -->
                 <configuration>
                     <driver>com.mysql.jdbc.Driver</driver>
-                    <url>jdbc:mysql://eu-cdbr-azure-north-d.cloudapp.net/reservaAoeC43teT</url>
+                    <url>jdbc:mysql://eu-cdbr-azure-north-d.cloudapp.net/</url>
                     <username>bcb1368b1b5123</username>
                     <password>6bac5264</password>
                 <!-- You can comment out username/password configurations
@@ -121,7 +121,7 @@
                         <goal>execute</goal>
                     </goals>
                     <configuration>
-                        <url> jdbc:mysql://eu-cdbr-azure-north-d.cloudapp.net/reservaAoeC43teT</url>
+                        <url> jdbc:mysql://eu-cdbr-azure-north-d.cloudapp.net/</url>
                         <autocommit>true</autocommit>
                         <srcFiles>
                             <srcFile>src/sql/scs_reservas.sql</srcFile>
