@@ -2,8 +2,8 @@
 # Database: scs_reservas
 # scs@localhost
 
-CREATE DATABASE scs_reservas;
-USE scs_reservas;
+CREATE DATABASE IF NOT EXISTS reservaAoeC43teT;
+USE reservaAoeC43teT;
 
 #
 # Table structure for table 'HOTEL'
